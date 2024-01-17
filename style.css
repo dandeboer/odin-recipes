@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+}
+
+.cursive {
+    font-family: "Brush Script MT", cursive;
+}
+
+p {
+    background-color: lightgray;
+}
+
+.wings {
+    height: auto;
+    width: 400px;
+}
